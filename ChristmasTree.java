@@ -1,3 +1,11 @@
+/* To Do
+- Add the Music by watching the YouTube Video
+- Organize the star ratios 9 4 4 9 and 5 12 5 with methods and not hardcoding the numbers
+- Ramdomize the coordinates for the colors?
+*/
+
+
+
 import java.awt.Color;
 import java.awt.Graphics;
 import sun.audio.*;
