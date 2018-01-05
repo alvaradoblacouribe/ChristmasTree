@@ -1,5 +1,6 @@
 import java.awt.Color;
 import java.awt.Graphics;
+import sun.audio.*;
 
 public class ChristmasTree {
   public static void main(String[] args) {
@@ -124,6 +125,18 @@ public class ChristmasTree {
     c.fillPolygon(xpoints,ypoints,9);
 
   }
+  //This is for music ~ figure out by watching the YouTube Video
+  /*public static class AL implements ActionListener{
+	  public final void actionPerformed(ActionEvent e) {
+		  music();
+	  }
+  }
+  public static void music() {
+	  AudioPlayer MPG= AudioPlayer.player;
+	  AudioStream
+	  AudioData
+  }
+  */
 }
 
 //canvas.sleep(1000);
